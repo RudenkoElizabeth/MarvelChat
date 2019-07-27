@@ -1,0 +1,49 @@
+{
+    "id": 1011334,
+    "name": "3-D Man",
+    "description": "Some description",
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/e0/535fecbbb9784",
+        "extension": "jpg"
+    },
+    "comics": {
+        "available": 2,
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/21366",
+                "name": "Avengers: The Initiative (2007) #14"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/24571",
+                "name": "Avengers: The Initiative (2007) #14 (SPOTLIGHT VARIANT)"
+            }
+        ]
+    },
+    "series": {
+        "available": 3,
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/1945",
+                "name": "Avengers: The Initiative (2007 - 2010)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/2005",
+                "name": "Deadpool (1997 - 2002)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/2045",
+                "name": "Marvel Premiere (1972 - 1981)"
+            }
+        ]
+    },
+    "stories": {
+        "available": 1,
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/19947",
+                "name": "Cover #19947",
+                "type": "cover"
+            }
+        ]
+    }
+}

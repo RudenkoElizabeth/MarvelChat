@@ -1,0 +1,18 @@
+{
+    "available": 3,
+    "items": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/21366",
+            "name": "Avengers: The Initiative (2007) #14"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/24571",
+            "name": "Avengers: The Initiative (2007) #14 (SPOTLIGHT VARIANT)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/21546",
+            "name": "Avengers: The Initiative (2007) #15"
+        }
+    ]
+    
+}
